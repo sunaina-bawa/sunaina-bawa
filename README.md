@@ -43,7 +43,7 @@
   &nbsp &nbsp   &nbsp &nbsp
 <img alt="html5" src="https://brandslogos.com/wp-content/uploads/images/large/html-logo.png" height="80px"/> 
 <img alt="Css3" src="https://logoeps.com/wp-content/uploads/2012/04/css3-vector.png"  height="80px"/>
-<img alt="git" src="https://uysalmustafa.com/wp-content/uploads/2016/11/git-logo-1.png" height="80px"/><br><br>
+<img alt="git" src="https://uysalmustafa.com/wp-content/uploads/2016/11/git-logo-1.png" height="80px"/>
  &nbsp  &nbsp &nbsp  &nbsp &nbsp
  <img alt="Github" src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png"  height="80px"/>
   &nbsp &nbsp   &nbsp &nbsp
