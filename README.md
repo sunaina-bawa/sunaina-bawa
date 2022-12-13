@@ -35,8 +35,11 @@
  
 <img alt="Javascript" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png"  height="80px" />
 <img alt="Java" src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png"  height="80px"  />
+&nbsp
 <img alt="Raect" src="https://user-images.githubusercontent.com/82604884/207292328-3a5cc07a-f3fa-4078-a9e9-417bfe4e22b7.png" height="80px"/>
+&nbsp
 <img alt="Node" src="https://user-images.githubusercontent.com/82604884/207292680-90036cdb-5d80-49c4-958d-26f2ce9a2edf.png"  height="80px"/>
+&nbsp
 <img alt="html5" src="https://brandslogos.com/wp-content/uploads/images/large/html-logo.png" height="80px"/> 
 <img alt="Css3" src="https://logoeps.com/wp-content/uploads/2012/04/css3-vector.png"  height="80px"/>
 <img alt="git" src="https://uysalmustafa.com/wp-content/uploads/2016/11/git-logo-1.png" height="80px"/>
