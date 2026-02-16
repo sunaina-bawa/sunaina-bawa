@@ -18,7 +18,7 @@
  💬 About me ...<br>
 
 * 🌍  I'm based in Haryana.
-* 💬  My portfolio is [https://sunainabawaportfolio.netlify.app/]
+* 💬  My portfolio is [https://sunainaworks.vercel.app/]
 * ✉️  You can contact me at [bawasunaina6@gmail.com](mailto:bawasunaina1@gmail.com)
 * 🧠  I'm learning `MERN Stack Developer`.
 * 🤔  I’m looking for help with `Competitive Programming`
